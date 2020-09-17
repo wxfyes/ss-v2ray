@@ -1,0 +1,25 @@
+proxies:
+- {"name":"🇨🇭 CH_74 TG@peekfun","server":"193.38.137.226","port":9059,"type":"ss","country":"🇨🇭 CH","password":"9XwYyZsK8SNzQDtY","cipher":"aes-256-cfb"}
+- {"name":"🇨🇭 CH_75 TG@peekfun","server":"45.134.17.165","port":9032,"type":"ss","country":"🇨🇭 CH","password":"UWZQeLRWnkqgkseq","cipher":"aes-256-cfb"}
+- {"name":"🇨🇭 CH_76 TG@peekfun","server":"84.17.53.208","port":36133,"type":"ss","country":"🇨🇭 CH","password":"xPNTeRxDB3u2ASfGmRj5V7GV","cipher":"aes-256-gcm"}
+- {"name":"🇨🇭 CH_77 TG@peekfun","server":"193.38.137.174","port":9059,"type":"ss","country":"🇨🇭 CH","password":"9XwYyZsK8SNzQDtY","cipher":"aes-256-cfb"}
+- {"name":"🇨🇭 CH_78 TG@peekfun","server":"45.134.17.165","port":9050,"type":"ss","country":"🇨🇭 CH","password":"FG5ddLsMPbV5CutE","cipher":"aes-256-cfb"}
+- {"name":"🇨🇭 CH_79 TG@peekfun","server":"84.17.53.208","port":34583,"type":"ss","country":"🇨🇭 CH","password":"hbWeaNJfjeP6GkT7jp6CSSx8","cipher":"aes-256-gcm"}
+- {"name":"🇨🇭 CH_80 TG@peekfun","server":"45.12.206.156","port":9050,"type":"ss","country":"🇨🇭 CH","password":"FG5ddLsMPbV5CutE","cipher":"aes-256-cfb"}
+- {"name":"🇨🇭 CH_81 TG@peekfun","server":"45.12.206.89","port":9050,"type":"ss","country":"🇨🇭 CH","password":"FG5ddLsMPbV5CutE","cipher":"aes-256-cfb"}
+- {"name":"🇨🇭 CH_82 TG@peekfun","server":"45.134.17.165","port":9059,"type":"ss","country":"🇨🇭 CH","password":"9XwYyZsK8SNzQDtY","cipher":"aes-256-cfb"}
+- {"name":"🇨🇭 CH_83 TG@peekfun","server":"193.38.137.226","port":9050,"type":"ss","country":"🇨🇭 CH","password":"FG5ddLsMPbV5CutE","cipher":"aes-256-cfb"}
+- {"name":"🇨🇭 CH_84 TG@peekfun","server":"193.38.137.174","port":9041,"type":"ss","country":"🇨🇭 CH","password":"U6qnYRhfyDmn8sgn","cipher":"aes-256-cfb"}
+- {"name":"🇨🇭 CH_85 TG@peekfun","server":"45.12.206.89","port":9059,"type":"ss","country":"🇨🇭 CH","password":"9XwYyZsK8SNzQDtY","cipher":"aes-256-cfb"}
+- {"name":"🇨🇭 CH_86 TG@peekfun","server":"84.17.53.208","port":35938,"type":"ss","country":"🇨🇭 CH","password":"FeQQ8muhWnKXHeCQ3D8Zjyeq","cipher":"aes-256-gcm"}
+- {"name":"🇨🇭 CH_87 TG@peekfun","server":"193.38.137.174","port":9050,"type":"ss","country":"🇨🇭 CH","password":"FG5ddLsMPbV5CutE","cipher":"aes-256-cfb"}
+- {"name":"🇨🇭 CH_88 TG@peekfun","server":"45.134.17.165","port":9041,"type":"ss","country":"🇨🇭 CH","password":"U6qnYRhfyDmn8sgn","cipher":"aes-256-cfb"}
+- {"name":"🇨🇭 CH_89 TG@peekfun","server":"45.12.206.156","port":9041,"type":"ss","country":"🇨🇭 CH","password":"U6qnYRhfyDmn8sgn","cipher":"aes-256-cfb"}
+- {"name":"🇨🇭 CH_90 TG@peekfun","server":"193.38.137.226","port":9032,"type":"ss","country":"🇨🇭 CH","password":"UWZQeLRWnkqgkseq","cipher":"aes-256-cfb"}
+- {"name":"🇨🇭 CH_91 TG@peekfun","server":"45.12.206.156","port":9059,"type":"ss","country":"🇨🇭 CH","password":"9XwYyZsK8SNzQDtY","cipher":"aes-256-cfb"}
+- {"name":"🇨🇭 CH_92 TG@peekfun","server":"193.38.137.174","port":9032,"type":"ss","country":"🇨🇭 CH","password":"UWZQeLRWnkqgkseq","cipher":"aes-256-cfb"}
+- {"name":"🇨🇭 CH_93 TG@peekfun","server":"45.12.206.156","port":9032,"type":"ss","country":"🇨🇭 CH","password":"UWZQeLRWnkqgkseq","cipher":"aes-256-cfb"}
+- {"name":"🇨🇭 CH_94 TG@peekfun","server":"193.38.137.226","port":9041,"type":"ss","country":"🇨🇭 CH","password":"U6qnYRhfyDmn8sgn","cipher":"aes-256-cfb"}
+- {"name":"🇨🇭 CH_95 TG@peekfun","server":"45.12.206.89","port":9041,"type":"ss","country":"🇨🇭 CH","password":"U6qnYRhfyDmn8sgn","cipher":"aes-256-cfb"}
+- {"name":"🇨🇭 CH_96 TG@peekfun","server":"45.12.206.89","port":9032,"type":"ss","country":"🇨🇭 CH","password":"UWZQeLRWnkqgkseq","cipher":"aes-256-cfb"}
+- {"name":"🇨🇭 CH_97 TG@peekfun","server":"45.90.57.171","port":443,"type":"vmess","country":"🇨🇭 CH","uuid":"ba9bd24c-f237-45ad-bb3e-4f7430897b9c","alterId":2,"cipher":"auto","tls":true,"network":"ws","http-opts":{},"ws-path":"/996de193ab627c/","ws-headers":{"HOST":"tr24.free2222.xyz"},"skip-cert-verify":true,"servername":"tr24.free2222.xyz"}

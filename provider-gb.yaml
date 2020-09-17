@@ -1,0 +1,26 @@
+proxies:
+- {"name":"🇬🇧 GB_203 TG@peekfun","server":"45.90.140.104","port":9003,"type":"ss","country":"🇬🇧 GB","password":"JdmRK9gMEqFgs8nP","cipher":"aes-256-cfb"}
+- {"name":"🇬🇧 GB_204 TG@peekfun","server":"217.138.196.91","port":35938,"type":"ss","country":"🇬🇧 GB","password":"FeQQ8muhWnKXHeCQ3D8Zjyeq","cipher":"aes-256-gcm"}
+- {"name":"🇬🇧 GB_205 TG@peekfun","server":"217.138.196.91","port":36133,"type":"ss","country":"🇬🇧 GB","password":"xPNTeRxDB3u2ASfGmRj5V7GV","cipher":"aes-256-gcm"}
+- {"name":"🇬🇧 GB_206 TG@peekfun","server":"185.108.105.3","port":35938,"type":"ss","country":"🇬🇧 GB","password":"FeQQ8muhWnKXHeCQ3D8Zjyeq","cipher":"aes-256-gcm"}
+- {"name":"🇬🇧 GB_207 TG@peekfun","server":"81.19.208.68","port":35938,"type":"ss","country":"🇬🇧 GB","password":"FeQQ8muhWnKXHeCQ3D8Zjyeq","cipher":"aes-256-gcm"}
+- {"name":"🇬🇧 GB_208 TG@peekfun","server":"185.193.36.208","port":36133,"type":"ss","country":"🇬🇧 GB","password":"xPNTeRxDB3u2ASfGmRj5V7GV","cipher":"aes-256-gcm"}
+- {"name":"🇬🇧 GB_209 TG@peekfun","server":"45.90.140.104","port":9006,"type":"ss","country":"🇬🇧 GB","password":"FAdUvMJUq5vDgKEq","cipher":"aes-256-cfb"}
+- {"name":"🇬🇧 GB_210 TG@peekfun","server":"194.124.32.8","port":9006,"type":"ss","country":"🇬🇧 GB","password":"FAdUvMJUq5vDgKEq","cipher":"aes-256-cfb"}
+- {"name":"🇬🇧 GB_211 TG@peekfun","server":"194.124.32.8","port":9003,"type":"ss","country":"🇬🇧 GB","password":"JdmRK9gMEqFgs8nP","cipher":"aes-256-cfb"}
+- {"name":"🇬🇧 GB_212 TG@peekfun","server":"81.19.208.68","port":34583,"type":"ss","country":"🇬🇧 GB","password":"hbWeaNJfjeP6GkT7jp6CSSx8","cipher":"aes-256-gcm"}
+- {"name":"🇬🇧 GB_213 TG@peekfun","server":"217.138.196.91","port":34583,"type":"ss","country":"🇬🇧 GB","password":"hbWeaNJfjeP6GkT7jp6CSSx8","cipher":"aes-256-gcm"}
+- {"name":"🇬🇧 GB_214 TG@peekfun","server":"185.200.118.134","port":808,"type":"ss","country":"🇬🇧 GB","password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
+- {"name":"🇬🇧 GB_215 TG@peekfun","server":"185.193.36.208","port":34583,"type":"ss","country":"🇬🇧 GB","password":"hbWeaNJfjeP6GkT7jp6CSSx8","cipher":"aes-256-gcm"}
+- {"name":"🇬🇧 GB_216 TG@peekfun","server":"185.108.105.3","port":36133,"type":"ss","country":"🇬🇧 GB","password":"xPNTeRxDB3u2ASfGmRj5V7GV","cipher":"aes-256-gcm"}
+- {"name":"🇬🇧 GB_217 TG@peekfun","server":"185.108.105.3","port":34583,"type":"ss","country":"🇬🇧 GB","password":"hbWeaNJfjeP6GkT7jp6CSSx8","cipher":"aes-256-gcm"}
+- {"name":"🇬🇧 GB_218 TG@peekfun","server":"194.124.32.8","port":9008,"type":"ss","country":"🇬🇧 GB","password":"y9VURyNzJWNRYEGQ","cipher":"aes-256-cfb"}
+- {"name":"🇬🇧 GB_219 TG@peekfun","server":"81.19.208.68","port":36133,"type":"ss","country":"🇬🇧 GB","password":"xPNTeRxDB3u2ASfGmRj5V7GV","cipher":"aes-256-gcm"}
+- {"name":"🇬🇧 GB_220 TG@peekfun","server":"45.90.140.104","port":9008,"type":"ss","country":"🇬🇧 GB","password":"y9VURyNzJWNRYEGQ","cipher":"aes-256-cfb"}
+- {"name":"🇬🇧 GB_221 TG@peekfun","server":"185.193.36.208","port":35938,"type":"ss","country":"🇬🇧 GB","password":"FeQQ8muhWnKXHeCQ3D8Zjyeq","cipher":"aes-256-gcm"}
+- {"name":"🇬🇧 GB_222 TG@peekfun","server":"212.84.169.78","port":8099,"type":"ssr","country":"🇬🇧 GB","password":"eIW0Dnk69454e6nSwuspv9DmS201tQ0D","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain"}
+- {"name":"🇬🇧 GB_223 TG@peekfun","server":"212.84.169.78","port":8097,"type":"ssr","country":"🇬🇧 GB","password":"eIW0Dnk69454e6nSwuspv9DmS201tQ0D","cipher":"aes-256-cfb","protocol":"origin","protocol_param":"t.me/SSRSUB","obfs":"plain"}
+- {"name":"🇬🇧 GB_224 TG@peekfun","server":"212.84.169.78","port":8099,"type":"ssr","country":"🇬🇧 GB","password":"eIW0Dnk69454e6nSwuspv9DmS201tQ0D","cipher":"aes-256-cfb","protocol":"origin","protocol_param":"t.me/SSRSUB","obfs":"plain"}
+- {"name":"🇬🇧 GB_225 TG@peekfun","server":"212.84.169.78","port":8097,"type":"ssr","country":"🇬🇧 GB","password":"eIW0Dnk69454e6nSwuspv9DmS201tQ0D","cipher":"aes-256-cfb","protocol":"origin","protocol_param":"WWW.YOUNEED.WIN","obfs":"plain","obfs_param":"WWW.YOUNEED.WIN"}
+- {"name":"🇬🇧 GB_226 TG@peekfun","server":"212.84.169.78","port":8097,"type":"ssr","country":"🇬🇧 GB","password":"eIW0Dnk69454e6nSwuspv9DmS201tQ0D","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain"}
+- {"name":"🇬🇧 GB_227 TG@peekfun","server":"212.84.169.78","port":8099,"type":"ssr","country":"🇬🇧 GB","password":"eIW0Dnk69454e6nSwuspv9DmS201tQ0D","cipher":"aes-256-cfb","protocol":"origin","protocol_param":"WWW.YOUNEED.WIN","obfs":"plain","obfs_param":"WWW.YOUNEED.WIN"}
